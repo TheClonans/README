@@ -14,12 +14,15 @@
 ## Projects
 
 - CompressionDB
+- PacPac 
+- Mommy's Time Out
 - LightningDB
 - Light before sound
   - Continued research 
 - XYZ0
 - line online
 -  Annabelle's Magical Worlds: Adventure Playgrounds
+-  
 
 --- 
 
@@ -61,3 +64,60 @@ In progress research topics -
 - Personalized Medicine
 - Educational Tools and Techniques
 - Virtual Reality (VR) and Augmented Reality (AR) Applications
+
+
+---
+
+## PacPac
+
+Status : Dev Complete 
+
+Brief Overview : 
+
+PacPac (pronounced Pac/Pac) is a progressive platform for both learning and earning. Unlike other live event platforms, PacPac is designed from the ground up to be approachable to all and advanced enough to meet all of your needs. The core focus is to cut out the 'middle-man' and padding in the live e-learning ecosystem. Knowledge is power, and at PacPac, we believe everyone should always be learning, or earning for what they know.
+
+PacPac brings people together through the power of live learning. Discover classes that will help you advance in your career, match your passion, or earn online by hosting your own course.
+
+Why PacPac was Created
+We want everyone to be able to share their knowledge quickly without having to set up entire infrastructures of lead capturing magnets, autoresponders, custom domains, websites, and more. PacPac provides everyone with a level playing-field regardless if you have a multi-million dollar ad budget or just starting out on the same level.
+
+But I already host my classes using X
+At PacPac, we are perfectly aware that there are many platforms to host live-streamed events. Some are paid, some are free, some need to be downloaded while others can host up to 100 million participants concurrently in the browser. Which is why we have engineered PacPac to work either as a standalone or a compliment to you're current tools. Due to the payments, course pages, notifications, and other baked-in features, all you have to do to host is create the event and show up on time!
+
+Read more - https://learnpacpac.netlify.app/
+
+
+---
+
+## Mommy's Time Out
+
+Status : In Dev
+
+Brief Overview : 
+
+To adapt the concept of PacPac into a new platform focused on moms and open discussions, we can revise and rebrand it as follows:
+
+---
+
+**Mommy's Time Out**
+
+_Mommy's Time Out (pronounced as it reads) is a dedicated podcast platform for moms, by moms. It's a space where real-life topics take center stage, providing a forum for free and open discussion._
+
+**Empowering Moms Through Voice and Community**
+
+Unlike typical podcast platforms, Mommy's Time Out is designed with a unique perspective – it's all about the moms. Whether it's about parenting challenges, career, health, or personal growth, this platform is your haven for sharing and learning. Our core mission is to empower moms by giving them a voice and creating a community where they can both share and learn from each other's experiences.
+
+**Why Mommy's Time Out?**
+
+We recognize that moms often juggle multiple roles and responsibilities. Mommy's Time Out is more than just a podcast platform; it's a support system, a learning hub, and a community. Here, you can share your stories, listen to others, and find solace in the shared experiences of motherhood.
+
+**Features of Mommy's Time Out:**
+
+- **Open Forum for Discussion:** A place for moms to discuss everything from parenting tips to personal wellness.
+- **Revenue Opportunities:** Similar to PacPac, Mommy's Time Out offers various revenue opportunities such as support, subscriptions, and gifts, ensuring that your voice and time are valued.
+- **Seamless Integration:** For those already hosting podcasts or discussions on other platforms, Mommy's Time Out can either stand alone or complement your current setup. It's hassle-free, requiring no complex setup – just create your event and start the conversation.
+- **Community-Centric Approach:** Designed to build a strong community of moms who can lean on and learn from each other.
+
+**The Vision**
+
+At Mommy's Time Out, we envision a world where every mom has a voice and can freely express her thoughts, concerns, and aspirations. We aim to build a platform that not only facilitates discussions but also fosters a supportive community of moms from all walks of life.
